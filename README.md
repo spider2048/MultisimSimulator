@@ -9,7 +9,7 @@ I've NOT disassembled / loaded any dll's, in fact, we don't need to touch the in
 # Usage:
 0. Start Multisim and make your circuit.
 1. For each "Digital Interactive Constant" placed, assign a unique letter to the key in its properties. (except the SPACE key)
-2. Download and execute ``MultiSim-Manipulator.exe`` from the releases section.
+2. Download and execute ``MultiSim-Simulator.exe`` from the releases section.
 3. Now, enter the number of inputs in the program.
 4. For each input, enter the previously assigned character in the digital constant.
 5. Now, in multisim, initialise all digital constants to zero.
