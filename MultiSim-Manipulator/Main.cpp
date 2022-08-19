@@ -76,7 +76,7 @@ int main() {
     std::filesystem::create_directories(std::string(currentDirectory.begin(), currentDirectory.end()));
 
     std::cout << "***" << std::endl;
-    std::cout << "1. Initialise all values to zero\n2. Adjust the window size as required.\n3. Do NOT touch multisim while simulation during simulation." << std::endl;
+    std::cout << "1. Initialise all values to zero\n2. Turn on simulation in multisim\n3. Adjust the window size for the screenshot.\n4. Do NOT touch multisim while simulation." << std::endl;
     std::cout << "***" << std::endl;
 
     std::cout << "Registered keys: { ";
